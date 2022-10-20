@@ -19,11 +19,14 @@
 
 <img src="https://user-images.githubusercontent.com/78294692/196884252-62779ae3-a3d5-48fc-b9f4-82a0fa1a96b8.png" width="500"> <img src="https://user-images.githubusercontent.com/78294692/196884198-f0852929-bc87-4de9-bfe8-147ff4a2de6f.png" width="500">
 
+
 ### Adding a review through the web app:
 
-![addrev](https://user-images.githubusercontent.com/78294692/196887644-b6210a16-3e88-4e48-b682-63095ab0ffad.gif)
+<img src="https://user-images.githubusercontent.com/78294692/196887644-b6210a16-3e88-4e48-b682-63095ab0ffad.gif" width="500">
 
 
 ### Edit / delete your review:
 
 <img src="https://user-images.githubusercontent.com/78294692/196884944-d5e35beb-3cd3-4a48-92de-e65d38f7ff29.png" width="400">
+
+*Note: The comments in my code are used as notes for later review.*
