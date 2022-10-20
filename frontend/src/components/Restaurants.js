@@ -28,7 +28,7 @@ const Restaurant = props => {
     }, [props.match.params.id]); // useEffect is called when the id changes
 
     const deleteReview = (reviewId, index) => {
-        RestaurantDataService.deleteReview(reviewId)
+        RestaurantDataService.deleteReview(reviewId, props.user.id)
             .then(response => {
                 setRestaurant((prevState) => {
                     prevState.reviews.splice(index, 1);
