@@ -29,4 +29,4 @@
 
 <img src="https://user-images.githubusercontent.com/78294692/196884944-d5e35beb-3cd3-4a48-92de-e65d38f7ff29.png" width="400">
 
-*Note: The comments in my code are used as notes for later review.*
+*Note: The comments in my code are used as notes for later review, they are not code smells :)*
